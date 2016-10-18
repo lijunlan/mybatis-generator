@@ -1,5 +1,5 @@
 # use mybatis generator quickly
 
-# edit generatorConfig.xml for your project
+1.edit generatorConfig.xml for your project
 
-# run scripts/generator_start.sh
+2.run scripts/generator_start.sh
