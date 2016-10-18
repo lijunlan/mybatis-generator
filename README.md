@@ -1,0 +1,1 @@
+use mybatis generator quickly
