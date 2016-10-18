@@ -6,6 +6,6 @@ rm -rf $base_dir/../mybatis-generater/src/main/java/*
 
 cd $base_dir/../mybatis-generater
 
-mvn clean mybatis-generator:generate
+mvn clean mybatis-generator:generate -e
 
 echo '[INFO]POJO AND MAPPING GENERATED SUCCESSFULLY'
